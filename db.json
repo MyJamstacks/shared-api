@@ -270,7 +270,7 @@
       "title": "Review budget",
       "category": "finances",
       "priority": "low",
-      "complete": true
+      "complete": false
     },
     {
       "id": "35",
@@ -278,7 +278,7 @@
       "title": "Prepare for exam",
       "category": "learning",
       "priority": "high",
-      "complete": true
+      "complete": false
     },
     {
       "id": "36",
@@ -294,7 +294,7 @@
       "title": "Buy milk",
       "category": "shopping",
       "priority": "none",
-      "complete": false
+      "complete": true
     },
     {
       "id": "38",
@@ -310,7 +310,7 @@
       "title": "Pay electricity bill",
       "category": "finances",
       "priority": "medium",
-      "complete": true
+      "complete": false
     },
     {
       "id": "40",
@@ -318,7 +318,7 @@
       "title": "Organize bookshelf",
       "category": "hobbies",
       "priority": "none",
-      "complete": true
+      "complete": false
     }
   ]
 }
